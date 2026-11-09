@@ -1,0 +1,8 @@
+# ninja log v7
+6	220	8158907245870763	CMakeFiles/swapandserve.dir/ChainingHashMap.cpp.obj	8a0d84e10ccbfa5f
+4	912	8158924222311311	CMakeFiles/swapandserve.dir/main.cpp.obj	7c7e7ac5c1b41e8c
+13	510	8158924222401294	CMakeFiles/swapandserve.dir/Recipe.cpp.obj	9b1080acf2f58168
+20	739	8158924222479078	CMakeFiles/swapandserve.dir/DatasetLoader.cpp.obj	23c6d6f6c59e75b8
+5	796	8158928148555678	CMakeFiles/swapandserve.dir/Dashboard.cpp.obj	174d6600a7847ad5
+1060	1227	8158924232874672	swapandserve.exe	43d5a0960db3edb0
+22	186	8158929691324362	swapandserve.exe	43d5a0960db3edb0

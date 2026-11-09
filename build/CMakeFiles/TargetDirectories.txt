@@ -1,0 +1,3 @@
+C:/Users/fores/Downloads/swapandserve/build/CMakeFiles/swapandserve.dir
+C:/Users/fores/Downloads/swapandserve/build/CMakeFiles/edit_cache.dir
+C:/Users/fores/Downloads/swapandserve/build/CMakeFiles/rebuild_cache.dir

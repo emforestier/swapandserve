@@ -1,0 +1,19 @@
+# ninja log v7
+38	696	8158913290611986	CMakeFiles/swapandserve.dir/main.cpp.obj	7c7e7ac5c1b41e8c
+49	727	8158913290727241	CMakeFiles/swapandserve.dir/Recipe.cpp.obj	9b1080acf2f58168
+62	1061	8158913290852651	CMakeFiles/swapandserve.dir/DatasetLoader.cpp.obj	23c6d6f6c59e75b8
+72	1216	8158913290958023	CMakeFiles/swapandserve.dir/Dashboard.cpp.obj	174d6600a7847ad5
+1216	1434	8158913302398057	swapandserve.exe	43d5a0960db3edb0
+11	1119	8158915315929165	CMakeFiles/swapandserve.dir/main.cpp.obj	7c7e7ac5c1b41e8c
+1120	1361	8158915327018594	swapandserve.exe	43d5a0960db3edb0
+8	785	8158915424107014	CMakeFiles/swapandserve.dir/main.cpp.obj	7c7e7ac5c1b41e8c
+788	977	8158915431903691	swapandserve.exe	43d5a0960db3edb0
+7	807	8158922155352327	CMakeFiles/swapandserve.dir/Dashboard.cpp.obj	174d6600a7847ad5
+808	1024	8158922163358504	swapandserve.exe	43d5a0960db3edb0
+14	577	8158923397158943	CMakeFiles/swapandserve.dir/Recipe.cpp.obj	9b1080acf2f58168
+20	881	8158923397223280	CMakeFiles/swapandserve.dir/DatasetLoader.cpp.obj	23c6d6f6c59e75b8
+6	1085	8158923397072673	CMakeFiles/swapandserve.dir/main.cpp.obj	7c7e7ac5c1b41e8c
+27	1244	8158923397294065	CMakeFiles/swapandserve.dir/Dashboard.cpp.obj	174d6600a7847ad5
+1244	1456	8158923409452982	swapandserve.exe	43d5a0960db3edb0
+7	640	8158926644162895	CMakeFiles/swapandserve.dir/Dashboard.cpp.obj	174d6600a7847ad5
+640	795	8158926650492551	swapandserve.exe	43d5a0960db3edb0
